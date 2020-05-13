@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795161415585",
+    "firebase_url": "https://flutter-firebase-poc-de639.firebaseio.com",
+    "project_id": "flutter-firebase-poc-de639",
+    "storage_bucket": "flutter-firebase-poc-de639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795161415585:android:1d3cf58b26b787a6e9c5e0",
+        "android_client_info": {
+          "package_name": "dev.remylavergne.firebase_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795161415585-1dbi4o0vjib2bp82flpt4mac1t3br5ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmfR9hAjFIr_bBMtQD1BRS7786JDQGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795161415585-1dbi4o0vjib2bp82flpt4mac1t3br5ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
